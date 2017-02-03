@@ -2854,9 +2854,9 @@ tough-cookie@~2.3.0:
   dependencies:
     punycode "^1.4.1"
 
-tractor-config-loader@0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/tractor-config-loader/-/tractor-config-loader-0.1.1.tgz#240fdfba4f3b8144163d6c0edcb830d50424dcb2"
+tractor-config-loader@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/tractor-config-loader/-/tractor-config-loader-0.2.1.tgz#3176a5a23af56842ace36f67002166b52a82feab"
   dependencies:
     lodash.defaults "4.2.0"
     minimist "1.2.0"
